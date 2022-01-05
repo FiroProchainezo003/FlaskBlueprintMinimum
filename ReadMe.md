@@ -1,4 +1,4 @@
-# Flask最小サンプル
+# Flask Blueprint 最小サンプル
 
 ## プロジェクトについて
 
